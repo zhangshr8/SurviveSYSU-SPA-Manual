@@ -18,8 +18,13 @@ $~~~~$大学前几年，那时候我还是个愤世嫉俗的青年。大一的�
 # 如何阅读与评论
 
 README.md 文件为前言，SUMMARY.md 文件为目录， frame.md 文件可无视，其余文件均为文章，点击SUMMARY.md文件中的连接或者对应文章文件即可阅读。  
-点击如图鼠标处"blame"后
-![image](https://github.com/zhangshr8/SurviveSYSUSPAManual/assets/92584682/5fb0784f-ee54-4103-8088-85b99c3714c3)
+点击如图鼠标处"Blame"后
+![image](https://github.com/zhangshr8/SurviveSYSUSPAManual/assets/92584682/5fb0784f-ee54-4103-8088-85b99c3714c3)  
+再点击对应字段  
+![image](https://github.com/zhangshr8/SurviveSYSUSPAManual/assets/92584682/c4289b94-ab00-4026-b0e0-23792cee1739)  
+即可评论“楼主纱币”  
+![727c0b4618ab3b42f30e9847f0144ae](https://github.com/zhangshr8/SurviveSYSUSPAManual/assets/92584682/6ba2ae3e-61a8-4496-87aa-c8c8651fb563)
+
 
 
 
